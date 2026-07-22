@@ -72,11 +72,8 @@ DSA/
 * ✅ Backtracking
 * ✅ Trees
 * ✅ Binary Search Trees
-* ✅ Heap / Priority Queue
-* ✅ Graphs
 * ✅ Dynamic Programming
 * ✅ Greedy Algorithms
-* ✅ Bit Manipulation
 * ✅ Math
 
 ---
@@ -92,7 +89,6 @@ DSA/
 | Queue               | ✅      |
 | Binary Search       | ✅      |
 | Trees               | ✅      |
-| Graph               | 🚧     |
 | Dynamic Programming | 🚧     |
 | Greedy              | 🚧     |
 
@@ -150,12 +146,8 @@ I try to write optimized solutions while considering:
 * Binary Search
 * Trees
 * Binary Search Trees
-* Heap
-* Graph
 * Dynamic Programming
 * Greedy
-* Bit Manipulation
-* Advanced Algorithms
 
 ---
 
@@ -189,7 +181,6 @@ This repository helps me:
 * GeeksforGeeks
 * NeetCode
 * Striver A2Z DSA Sheet
-* Coding Ninjas
 
 ---
 
