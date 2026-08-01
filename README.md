@@ -220,10 +220,12 @@ Passionate about Software Development, Artificial Intelligence, Machine Learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/deva2006923/Dsa/tree/main/0001-two-sum/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deva2006923/Dsa/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/deva2006923/Dsa/tree/main/0001-two-sum/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deva2006923/Dsa/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,5 +234,10 @@ Passionate about Software Development, Artificial Intelligence, Machine Learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0401-binary-watch](https://github.com/deva2006923/Dsa/tree/main/0401-binary-watch/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deva2006923/Dsa/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0461-hamming-distance](https://github.com/deva2006923/Dsa/tree/main/0461-hamming-distance/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deva2006923/Dsa/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
