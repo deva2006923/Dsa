@@ -232,4 +232,5 @@ Passionate about Software Development, Artificial Intelligence, Machine Learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0401-binary-watch](https://github.com/deva2006923/Dsa/tree/main/0401-binary-watch/) | Easy |
+| [0461-hamming-distance](https://github.com/deva2006923/Dsa/tree/main/0461-hamming-distance/) | Easy |
 <!---LeetCode Topics End-->
