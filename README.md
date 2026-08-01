@@ -224,6 +224,7 @@ Passionate about Software Development, Artificial Intelligence, Machine Learning
 | [0347-top-k-frequent-elements](https://github.com/deva2006923/Dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deva2006923/Dsa/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deva2006923/Dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/deva2006923/Dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@ Passionate about Software Development, Artificial Intelligence, Machine Learning
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deva2006923/Dsa/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/deva2006923/Dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deva2006923/Dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/deva2006923/Dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,17 +249,20 @@ Passionate about Software Development, Artificial Intelligence, Machine Learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deva2006923/Dsa/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/deva2006923/Dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/deva2006923/Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/deva2006923/Dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/deva2006923/Dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/deva2006923/Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/deva2006923/Dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/deva2006923/Dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/deva2006923/Dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,16 +272,19 @@ Passionate about Software Development, Artificial Intelligence, Machine Learning
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deva2006923/Dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/deva2006923/Dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/deva2006923/Dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deva2006923/Dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/deva2006923/Dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/deva2006923/Dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deva2006923/Dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/deva2006923/Dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/deva2006923/Dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
