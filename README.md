@@ -230,6 +230,7 @@ Passionate about Software Development, Artificial Intelligence, Machine Learning
 | [0049-group-anagrams](https://github.com/deva2006923/Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/deva2006923/Dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deva2006923/Dsa/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/deva2006923/Dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,11 +249,13 @@ Passionate about Software Development, Artificial Intelligence, Machine Learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/deva2006923/Dsa/tree/main/0049-group-anagrams/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/deva2006923/Dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/deva2006923/Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/deva2006923/Dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/deva2006923/Dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,14 +264,17 @@ Passionate about Software Development, Artificial Intelligence, Machine Learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deva2006923/Dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/deva2006923/Dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deva2006923/Dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/deva2006923/Dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deva2006923/Dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/deva2006923/Dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
