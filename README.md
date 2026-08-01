@@ -213,3 +213,15 @@ Passionate about Software Development, Artificial Intelligence, Machine Learning
 ### 🚀 Happy Coding!
 
 *"Consistency beats intensity. Solve one problem every day and keep improving!"*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/deva2006923/Dsa/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/deva2006923/Dsa/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
