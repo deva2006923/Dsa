@@ -224,4 +224,12 @@ Passionate about Software Development, Artificial Intelligence, Machine Learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/deva2006923/Dsa/tree/main/0001-two-sum/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0401-binary-watch](https://github.com/deva2006923/Dsa/tree/main/0401-binary-watch/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0401-binary-watch](https://github.com/deva2006923/Dsa/tree/main/0401-binary-watch/) | Easy |
 <!---LeetCode Topics End-->
