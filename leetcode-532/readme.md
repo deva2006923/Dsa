@@ -49,7 +49,7 @@ which means the subarray between these indices has a sum that is a multiple of `
 
 ## 💻 Java Solution
 
-CODE ISA IN THE SAME FILE
+  CODE IS IN THE SAME FILE
 ---
 
 ## 🔍 Dry Run
