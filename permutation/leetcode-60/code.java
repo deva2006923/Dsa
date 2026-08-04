@@ -1,29 +1,38 @@
 class Solution {
-    List<List<Integer>> ans=new ArrayList<>();
+    boolean found=false;
+    String ans="";
+    int count=0;
     public String getPermutation(int n, int k) {
         boolean[] v=new boolean[n];
-        bt(n,v,new ArrayList<>());
-        String res="";
-        for(int i=0;i<ans.get(k-1).size();i++){
-            int ele=ans.get(k-1).get(i);
-            res+=String.valueOf(ele);
-        }
-        return res;
+        bt(n,v,new ArrayList<>(),k);
+        return ans;
+        
 
 
     }
-    public void bt(int n,boolean[] v,List<Integer> temp){
-        if(temp.size()==n){
-            ans.add(new ArrayList<>(temp));
+    public void bt(int n,boolean[] v,List<Integer> temp,int k){
+        if(found){
             return;
         }
+        if(temp.size()==n){
+            count++;
+        }
+        if(count==k){
+            StringBuilder res=new StringBuilder();
+            for(int i=0;i<temp.size();i++){
+                res.append(String.valueOf(temp.get(i)));
+            }
+            ans=res.toString();
+            found=true;
+        }
+        
         for(int i=1;i<=n;i++){
             if(v[i-1]){
                 continue;
             }
             v[i-1]=true;
             temp.add(i);
-            bt(n,v,temp);
+            bt(n,v,temp,k);
             v[i-1]=false;
             temp.remove(temp.size()-1);
         }
