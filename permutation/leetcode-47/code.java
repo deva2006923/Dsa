@@ -2,6 +2,7 @@ class Solution {
     List<List<Integer>> ans=new ArrayList<>();
     public List<List<Integer>> permuteUnique(int[] nums){
         boolean[] v=new boolean[nums.length];
+        Arrays.sort(nums);
         bt(nums,v,new ArrayList<>());
         return ans;
         
